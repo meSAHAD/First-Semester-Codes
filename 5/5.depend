@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652239186 source:c:\users\user\documents\c programing\5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652241031 source:c:\users\user\documents\c programing\5\tripple function.c
+	<stdio.h>
+

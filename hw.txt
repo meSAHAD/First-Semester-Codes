@@ -1,0 +1,5 @@
+reverse number
+digit Sum
+average of digit
+palindrom
+in array= max,min,midian,mode,odd/even,average,standard division
